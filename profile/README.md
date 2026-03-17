@@ -1,12 +1,7 @@
-## Hi there 👋
+## About Oughtex
 
-<!--
+**Oughtex** is a leading software development agency specializing in custom software solutions, web applications, mobile apps, and enterprise-grade systems. With a team of expert developers, designers, and project managers, we deliver high-quality, scalable, and innovative software products tailored to meet the unique needs of businesses across various industries.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Our Services
+- **Custom Software Development**: Bespoke applications built from the ground up
+- **Web Development**: Responsive websites and web applications using modern technologies
