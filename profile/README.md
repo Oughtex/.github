@@ -25,7 +25,7 @@
 - Real Estate and Property Management
 - And many more...
 
-For more information about our services, visit [oughtex.com](https://oughtex.com) or contact us at info@oughtex.com.
+For more information about our services, visit [oughtex.com](https://oughtex.com) or contact us at hello@oughtex.com.
 
 ## 🚀 Features
 
